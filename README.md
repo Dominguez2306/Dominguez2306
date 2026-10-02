@@ -24,10 +24,6 @@
 
 For now, check out my public repositories below 👇
 
-## 📬 Contact
-
-- **Instagram**: [@dominguez_cocina](https://instagram.com/dominguez_cocina)
-- **Email**: dominguez@example.com
 
 ---
 
