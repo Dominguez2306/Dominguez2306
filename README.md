@@ -11,7 +11,7 @@
   - **Barça**: Lamine Yamal, Pedri, Gavi, Dani Olmo, Raphinha.
   - **Spain**: Rodri, Nico Williams, Álex Grimaldo, Lamine Yamal, Unai Simón.
 - **🏀 A bit of basketball**: I'm not a huge fan, but I follow the big names – especially the national team and some NBA games.
-- **🍳 Amateur chef**: I love cooking with **Thermomix**. My favorite recipes: rice dishes, creams, homemade bread, and easy desserts.
+- **🍳 amateur chef I love cooking with **Thermomix**. My favorite recipes: rice dishes, creams, homemade bread, and easy desserts.
 - **💻 Tech**: (add your skills here – e.g., Python, JavaScript, React, etc.)
 
 ## 📊 My GitHub Stats
