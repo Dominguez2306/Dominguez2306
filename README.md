@@ -1,4 +1,4 @@
-## H
+
 # Hi, I'm Dominguez 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/dominguez?style=social)
