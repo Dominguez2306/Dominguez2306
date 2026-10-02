@@ -1,49 +1,17 @@
+# 🚂 El Choque de Trenes - Juego de Ingenio
 
-# Hi, I'm Dominguez 👋
+Un minijuego interactivo basado en el clásico acertijo de física. El usuario introduce la velocidad de dos trenes y la distancia entre ellos, y tiene que calcular mentalmente en cuánto tiempo chocarán antes de revelar la respuesta.
 
-![GitHub followers](https://img.shields.io/github/followers/dominguez?style=social)
-![GitHub stars](https://img.shields.io/github/stars/dominguez?style=social)
+## 🕹️ Cómo se juega
+1. Introduces la **distancia** entre las dos estaciones (ej. 500 km).
+2. Pones la **velocidad** del Tren 1 (ej. 60 km/h) y del Tren 2 (ej. 40 km/h).
+3. Piensas tu respuesta y haces clic en **"¿Cuándo chocan?"** para ver la solución en pantalla.
 
-## ⚽ About Me
+   # 🚂 The Train Collision – A Brain Teaser
 
-- **Football lover**: Culé for life. I adore **FC Barcelona** and the **Spanish national team**.
-- **Current favorite players**:
-  - **Barça**: Lamine Yamal, Pedri, Gavi, Dani Olmo, Raphinha.
-  - **Spain**: Rodri, Nico Williams, Álex Grimaldo, Lamine Yamal, Unai Simón.
-- **🏀 A bit of basketball**: I'm not a huge fan, but I follow the big names – especially the national team and some NBA games.
-- **🍳 amateur chef I love cooking with **Thermomix**. My favorite recipes: rice dishes, creams, homemade bread, and easy desserts.
-- **💻 Tech**: (add your skills here – e.g., Python, JavaScript, React, etc.)
+An interactive mini-game based on the classic physics puzzle. The user enters the speeds of two trains and the distance between them, then must mentally calculate how long it will take for them to collide before revealing the answer.
 
-## 📊 My GitHub Stats
-
-![Dominguez's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominguez&show_icons=true&theme=radical)
-
-## 🥇 Featured Projects
-
-> *Coming soon: maybe a football stats project or a Thermomix recipe organizer.*
-
-For now, check out my public repositories below 👇
-
-
----
-
-### 🎯 My motto
-
-> *"Football is the most important of the least important things."* – Jorge Valdano
-
-![Thermomix](https://img.icons8.com/color/48/000000/thermomix.png) Visca el Barça and bon appétit! 🍝
-
-<!--
-**Dominguez2306/Dominguez2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹️ How to Play
+1. Enter the **distance** between the two stations (e.g., 500 km).
+2. Set the **speed** for Train 1 (e.g., 60 km/h) and Train 2 (e.g., 40 km/h).
+3. Work out your answer and click **"When do they collide?"** to see the solution on screen.
